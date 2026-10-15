@@ -1,0 +1,4 @@
+# Everything needed to run locally on Windows (Python 3.10, 3.11 or 3.12, 64-bit; 3.13 is NOT recommended for SHAP).
+-r requirements-docker.txt
+streamlit==1.41.1
+pytest==8.3.4
